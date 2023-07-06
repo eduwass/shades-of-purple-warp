@@ -6,7 +6,7 @@ Shades of Purple theme for the Warp terminal.
 
 Credits go to:
 - [@ahmad](https://github.com/ahmadawais) - Original Shades of Purple theme
-- [@haackt](https://github.com/@haackt) - https://warp-themes.com
+- [@haackt](https://github.com/haackt) - https://warp-themes.com
 
 ## Instructions
 - Download the file
